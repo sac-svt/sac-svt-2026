@@ -9,7 +9,7 @@ Navigation: [Call For Papers](#call-for-papers), [Submission Guidelines](#submis
 The ACM Symposium on Applied Computing (SAC) has gathered scientists from different areas of computing for over thirty years. 
 The forum gives participants an opportunity to interact with different communities sharing an interest in applied computing.
 
-[The 40th ACM Symposium on Applied Computing (SAC 2025)](https://www.sigapp.org/sac/sac2025/) is sponsored by the ACM Special Interest Group on Applied Computing (SIGAPP), and will take place on March 23 - March 27, 2026, in Thessaloniki, Greece.
+[The 41st ACM Symposium on Applied Computing (SAC 2026)](https://www.sigapp.org/sac/sac2026/) is sponsored by the ACM Special Interest Group on Applied Computing (SIGAPP), and will take place on March 23 - March 27, 2026, in Thessaloniki, Greece.
 
 The Software Verification and Testing track aims to contribute to the challenge of improving the usability of formal methods in software engineering. 
 The track covers areas such as formal methods for verification and testing, based on theorem proving, model checking, static analysis, and run-time verification. 
@@ -66,6 +66,7 @@ Author registration: 12 December 2025
 
 ## Track Chairs
 
+[Jingyi Wang](https://wang-jingyi.github.io), Zhejiang University, China
 [Anton Wijs](https://www.tue.nl/en/research/researchers/anton-wijs), Eindhoven University of Technology, Netherlands
 
 ## Program Committee
