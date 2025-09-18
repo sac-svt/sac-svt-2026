@@ -66,7 +66,7 @@ Author registration: 12 December 2025
 
 ## Track Chairs
 
-[Jingyi Wang](https://wang-jingyi.github.io), Zhejiang University, China
+[Jingyi Wang](https://wang-jingyi.github.io), Zhejiang University, China<br>
 [Anton Wijs](https://www.tue.nl/en/research/researchers/anton-wijs), Eindhoven University of Technology, Netherlands
 
 ## Program Committee
