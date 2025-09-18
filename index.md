@@ -71,7 +71,33 @@ Author registration: 12 December 2025
 
 ## Program Committee
 
-TBD
+- Michele Chiari, TU Wien, Austria
+- Vincenzo Ciancia, ISTI-CNR, Italy
+- Tom van Dijk, University of Twente, The Netherlands
+- Crystal Chang Din, University of Bergen, Norway
+- Joao Faria, University of Porto, Portugal
+- Michael Foster, The University of Sheffield, UK
+- María del Mar Gallardo, University of Málaga, Spain
+- Angelo Gargantini, University of Bergamo, Italy
+- Marcus Gerhold, University of Twente, The Netherlands
+- Matthias Güdemann, UAS Munich, Germany
+- Ernst Moritz Hahn, University of Twente, The Netherlands
+- Sylvain Hallé, Université du Québec à Chicoutimi, Canada
+- Thierry Jéron, INRIA, France
+- Eduard Kamburjan, IT University of Copenhagen, Denmark
+- Ferhat Khendek, Concordia University, Canada
+- Nikolai Kosmatov, Thales Research & Technology, France
+- Peter Lammich, University of Twente, The Netherlands
+- Maurizio Leotta, Università di Genova, Italy
+- Mercedes Merayo, Universidad Complutense de Madrid, Spain
+- Peter Ölveczky, University of Oslo, Norway
+- Jun Pang, University of Luxembourg, Luxembourg
+- Violet Ka I Pun, Western Norway University of Applied Sciences, Norway
+- Antoine Rollet, LaBRI, Bordeaux INP, France
+- David Šafránek, Masaryk University, Czech Republic
+- Gwen Salaün, INRIA / University of Grenoble Alpes, France
+- Jingyi Wang, Zhejiang University, China (track co-chair)
+- Anton Wijs, Eindhoven University of Technology, The Netherlands (track co-chair)
 
 ## Previous Editions
 
